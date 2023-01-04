@@ -107,16 +107,17 @@ hr {
 }
 
 .directory {
+    
     text-align: center;
-    margin:auto;
     flex-direction: row;
     display: flex;
     justify-content: space-evenly;
     border-radius: 50px;
     height: auto;
     line-height: 50px;
-    width: 75%;
+    width: 70%;
     overflow: visible;
+    margin: 150px auto 10px;
 }
 
 a .directory { /*doesn't work?? ask later*/
